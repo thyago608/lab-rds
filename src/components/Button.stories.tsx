@@ -7,7 +7,18 @@ export default {
   args: {
     children: "Button Component",
   },
-  argTypes: {},
+  argTypes: {
+    children: {
+      table: {
+        disable: true,
+      },
+    },
+    asChild: {
+      table: {
+        disable: true,
+      },
+    },
+  },
 } as Meta<ButtonProps>;
 
 export const Default: StoryObj<ButtonProps> = {};
