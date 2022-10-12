@@ -21,6 +21,7 @@ module.exports = {
       "cyan-500": "#81D8F7",
 
       black: "#000000",
+      white: "#FFFF",
     },
     extend: {
       fontFamily: {
