@@ -39,7 +39,7 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 ```
 
 ## Visite
-[Figma](https://www.figma.com/community/file/1161751895559771272)
+[Figma](https://www.figma.com/community/file/1161751895559771272)</br></br>
 [StoryBook](https://thyago608.github.io/lab-rds/)
 
 Desenvolvido por Thyago Ribeiro 👋
