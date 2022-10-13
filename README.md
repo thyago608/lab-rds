@@ -12,7 +12,7 @@ O projeto **Ignite Lab**, é uma aplicação desenvolvida dentro do evento Ignit
 
 O projeto foi desenvolvido com as seguintes tecnologias:
 
-- [ReactJs](https://www.guiareact.org/)
+- [ReactJs](https://pt-br.reactjs.org/)
 - [Typescript](https://www.typescriptlang.org/)
 - [TailwindCSS](https://tailwindcss.com/)
 - [Storybook](https://storybook.js.org/)
